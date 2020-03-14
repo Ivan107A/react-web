@@ -1,0 +1,24 @@
+.App {
+  font-size: 2rem;
+  padding: 2rem;
+  background: #eee;
+}
+
+.Currency {
+  margin-bottom: 1rem;
+}
+
+.Currency-Input {
+  font-size: 2rem;
+  text-align: right;
+  padding: 0.5rem;
+  width: 20rem;
+  background-color: #ecf8f8;
+  border: 1px solid #ccc;
+
+}
+
+.Currency-Input--current {
+  font-weight: bold;
+  background-color: #cbe896;
+}
